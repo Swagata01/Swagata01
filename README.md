@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Swagata01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-I'm Swagata Dey, 3rd year CSE student, done internship at CodSoft On web development, currently doing internship at Prime Focus Technologies.
+having skills on java,c,python,html,css,javascript,bootstrap,php,sql,dbms,oops,dsa,os,AI-ML.
+To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization.
+email- deyswagata05@gmail.com
 
-<!---
-Swagata01/Swagata01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
